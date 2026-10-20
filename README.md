@@ -3,7 +3,7 @@
 This project implements a stochastic MILP (Mixed-Integer Linear Programming) model to solve the Unit Commitment Problem under uncertainty. Instead of a deterministic approach, this model optimizes the **expected cost** across multiple scenarios while ensuring system reliability.
 
 ## Full Report
-**[Read the Full Report (PDF)](./Rapport_UCP_Stochastique.pdf)** *(Note: Technical report is in French; code and README are in English)*
+**[Read the Full Report (PDF)](./rapport_ucp_stochastique.pdf)** *(Note: Technical report is in French; code and README are in English)*
 
 ## Project Scope
 The goal is to schedule power plant generation (Commitment and Dispatch) to meet demand while accounting for the variability of renewable energy sources.
